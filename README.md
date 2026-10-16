@@ -33,11 +33,11 @@ AI and Machine Learning Engineer with **1+ years** of hands-on experience across
 
 ## 🎓 Education
 
-| Institution | Program | Grade | Period |
+| Institution | Program | Period |
 |:--|:--|:-:|:-:|
-| 🏛️ Schmalkalden University of Applied Sciences | M.Sc. Applied Computer Science | **1.6** | Oct 2025 – Present |
-| 🏛️ Schmalkalden University of Applied Sciences | M.Sc. Mechatronics and Robotics | **1.98** | Oct 2023 – Present |
-| 🏛️ CVR College of Engineering, Hyderabad | B.Tech. Mechanical Engineering (CGPA 8.4/10) | — | Aug 2016 – Jul 2020 |
+| 🏛️ Schmalkalden University of Applied Sciences | M.Sc. Applied Computer Science| Oct 2025 – Present |
+| 🏛️ Schmalkalden University of Applied Sciences | M.Sc. Mechatronics and Robotics  | Oct 2023 – Present |
+| 🏛️ CVR College of Engineering, Hyderabad | B.Tech. Mechanical Engineering  | Aug 2016 – Jul 2020 |
 
 > 🔁 Pursuing both M.Sc. programs concurrently as a dual-degree course of study.
 
