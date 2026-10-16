@@ -16,14 +16,27 @@ I build data-driven ML solutions, speech AI pipelines, and well-tested productio
 - **Post-Quantum Key Exchange for IoT**: ML-KEM-512 (Kyber), HKDF-SHA256, and AES-128-CCM over CoAP on PineCone BL602
 - **LLM Document Analysis Tool**: OpenCV and NLP pipeline with local LLMs via Ollama in a Streamlit app, supporting 52 languages
 
-## 🛠️ Tech Stack
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+## 🛠️ Technical Skills
 
-**AI / ML:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+**Programming Languages:** Python, C, C++, TypeScript, Java, SQL, GDScript
 
-**Backend / Frontend:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+**Generative AI, LLMs & NLP:** Large Language Models (LLMs), Prompt Engineering, Retrieval-Augmented Generation (RAG), Text Embeddings, Semantic Search, OpenAI API (GPT-4o), Ollama, Hugging Face Transformers, LangChain, spaCy, NLTK
 
-**Robotics / Embedded:** ![ROS 2](https://img.shields.io/badge/-ROS%202-22314E?style=flat&logo=ros&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+**Speech AI:** Speech-to-Text (Whisper, faster-whisper), Wake-Word Detection (openWakeWord), Text-to-Speech (ElevenLabs)
+
+**Machine Learning & Deep Learning:** PyTorch, TensorFlow, Keras, scikit-learn, XGBoost, LightGBM, Random Forest, PCA, Hierarchical Clustering, Model Evaluation, Cross-Validation, Hyperparameter Tuning (Optuna, GridSearch/RandomSearch)
+
+**Data Science & Analysis:** Pandas, NumPy, SciPy, Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, Feature Scaling, Missing Value Imputation, Outlier Detection, Duplicate Removal, Statistical Analysis, Metagenomics (KrakenUniq)
+
+**Computer Vision:** OpenCV, TorchVision, scikit-image, Pillow (PIL), MMCV, Picamera2, Image Annotation (Bounding Boxes, Polygons, Segmentation Masks, Keypoints)
+
+**Robotics & Embedded Systems:** ROS 2 (Jazzy), PX4, MAVLink, NVIDIA Jetson Orin Nano, Raspberry Pi 5, PineCone BL602, UART, CoAP, ML-KEM (Kyber), AES-CCM
+
+**Backend & Full-Stack:** FastAPI, SQLAlchemy, Alembic, REST APIs, React, TanStack Query, Streamlit, Pytest, Vitest
+
+**MLOps, Cloud & DevOps:** Docker, AWS (Lambda, RDS), Terraform, Jenkins, CI/CD Pipelines, Datadog, Microservices
+
+**Databases & Tools:** PostgreSQL (Full-Text Search, GIN Indexing), MySQL, Git, GitHub, GitLab, CVAT, Tableau, Power BI
 
 ## 📊 GitHub Stats
 ![Durga's GitHub stats](https://github-readme-stats.vercel.app/api?username=DurgaPrasadPuli&show_icons=true&theme=default)
