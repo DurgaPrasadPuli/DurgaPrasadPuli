@@ -115,7 +115,7 @@ AI and Machine Learning Engineer with **1+ years** of hands-on experience across
 
 | Language | Level |
 |:--|:--|
-| 🇬🇧 English | **C2** (Proficient) |
+| 🇬🇧 English | **C1** (Proficient) |
 | 🇩🇪 German | **B1–B2** (Upper Intermediate) |
 | 🇮🇳 Telugu | **C2** (Native-level) |
 
