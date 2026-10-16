@@ -1,11 +1,12 @@
 <div align="center">
-<img src="![Uploading resume Image.png…]()
-" alt="Durga Prasad Puli" width="140" style="border-radius:50%;" />
+
+<img src="profile.jpg" alt="Durga Prasad Puli" width="140" style="border-radius:50%;" />
+
 # 👋 Durga Prasad Puli
 
 ### 🤖 AI / Machine Learning Engineer · Generative AI, LLMs & Applied Robotics
 
-📍 Hannover, Germany &nbsp;·&nbsp; 🎓 Dual-degree M.Sc. Applied Computer Science & Mechatronics and Robotics
+📍 Hannover, Germany &nbsp;·&nbsp; 🎓 Dual-degree M.Sc. Applied Computer Science & Mechatronics and Robotics (in progress)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-durgaprasadpuli.vercel.app-0F172A?style=for-the-badge)](https://durgaprasadpuli.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-durgaprasadpuli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durgaprasadpuli)
@@ -17,7 +18,7 @@
 
 ## 👤 Profile
 
-AI and Machine Learning Engineer with **1+ years** of hands-on experience across research, academic projects, and industry. I build data-driven solutions with machine learning, LLMs, prompt engineering, and speech AI, and I apply AI in robotics and well-tested production applications.
+AI and Machine Learning Engineer with **1+ years** of hands-on experience across research, academic projects, and industry. I build data-driven solutions with machine learning, LLMs, prompt engineering, and speech AI, and I apply AI in robotics and well-tested production applications. Currently pursuing a dual-degree M.Sc. in Applied Computer Science and Mechatronics & Robotics in Germany.
 
 ---
 
@@ -34,10 +35,10 @@ AI and Machine Learning Engineer with **1+ years** of hands-on experience across
 ## 🎓 Education
 
 | Institution | Program | Period |
-|:--|:--|:-:|:-:|
-| 🏛️ Schmalkalden University of Applied Sciences | M.Sc. Applied Computer Science| Oct 2025 – Present |
-| 🏛️ Schmalkalden University of Applied Sciences | M.Sc. Mechatronics and Robotics  | Oct 2023 – Present |
-| 🏛️ CVR College of Engineering, Hyderabad | B.Tech. Mechanical Engineering  | Aug 2016 – Jul 2020 |
+|:--|:--|:-:|
+| 🏛️ Schmalkalden University of Applied Sciences | M.Sc. Applied Computer Science | Oct 2025 – Present |
+| 🏛️ Schmalkalden University of Applied Sciences | M.Sc. Mechatronics and Robotics | Oct 2023 – Present |
+| 🏛️ CVR College of Engineering, Hyderabad | B.Tech. Mechanical Engineering | Aug 2016 – Jul 2020 |
 
 > 🔁 Pursuing both M.Sc. programs concurrently as a dual-degree course of study.
 
@@ -125,6 +126,13 @@ AI and Machine Learning Engineer with **1+ years** of hands-on experience across
 <div align="center">
 
 ### 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-durgaprasadpuli.vercel.app-0F172A?style=for-the-badge)](https://durgaprasadpuli.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durgaprasadpuli)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durgadp.ml@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-DurgaPrasadPuli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DurgaPrasadPuli)
+
+</div>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-durgaprasadpuli.vercel.app-0F172A?style=for-the-badge)](https://durgaprasadpuli.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durgaprasadpuli)
