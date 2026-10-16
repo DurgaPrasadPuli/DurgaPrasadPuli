@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="![Uploading resume Image.png…]()
+" alt="Durga Prasad Puli" width="140" style="border-radius:50%;" />
 # 👋 Durga Prasad Puli
 
 ### 🤖 AI / Machine Learning Engineer · Generative AI, LLMs & Applied Robotics
