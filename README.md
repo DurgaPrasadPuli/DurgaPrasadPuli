@@ -134,9 +134,4 @@ AI and Machine Learning Engineer with **1+ years** of hands-on experience across
 
 </div>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-durgaprasadpuli.vercel.app-0F172A?style=for-the-badge)](https://durgaprasadpuli.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durgaprasadpuli)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durgadp.ml@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-DurgaPrasadPuli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DurgaPrasadPuli)
 
-</div>
