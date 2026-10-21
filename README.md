@@ -16,7 +16,7 @@
 
 ## 👤 Profile
 
-AI and Machine Learning Engineer with **1+ years** of hands-on experience across research, academic projects, and industry. I build data-driven solutions with machine learning, LLMs, prompt engineering, and speech AI, and I apply AI in robotics and well-tested production applications. Currently pursuing a dual-degree M.Sc. in Applied Computer Science and Mechatronics & Robotics in Germany.
+AI and Machine Learning Engineer with  hands-on experience across research, academic projects, and industry. I build data-driven solutions with machine learning, LLMs, prompt engineering, and speech AI, and I apply AI in robotics and well-tested production applications. Currently pursuing a dual-degree M.Sc. in Applied Computer Science and Mechatronics & Robotics in Germany.
 
 ---
 
